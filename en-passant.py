@@ -117,7 +117,7 @@ def try_elo(d: dict, line: str) -> dict:
 def cleanup(game: str) -> str:
     no_clock = sub(r"{.+?}",       "",  game)
     no_dots  = sub(r" \d+\.\.\. ", "",  no_clock)
-    no_space = sub(r"  ",          " ", no_dots)
+    no_space = sub(r" "*2,         " ", no_dots)
     no_marks = sub(r"\?|\!",       "",  no_space)
     if len(no_marks) > 20:
         m = no_marks.split(".")
