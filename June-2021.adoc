@@ -1,0 +1,60 @@
+Mate by en passant (June 2021) from lichess_db_standard_rated_2021-06.pgn.bz2
+
+[cols="^,>,^,>,^", options="header"]
+|=======
+|  # | # in file  |            URL               | moves |     Elo    
+|  1 |     156732 | https://lichess.org/fax1ZqDm |    31 | 2412 - 2303
+|  2 |    6361838 | https://lichess.org/PnmvVu8H |    34 | 2140 - 2133
+|  3 |    8888780 | https://lichess.org/YrrAmh11 |    23 | 2290 - 2183
+|  4 |    9741412 | https://lichess.org/rbAGlIKo |    38 | 2137 - 2110
+|  5 |   10193216 | https://lichess.org/a5UbymvR |    34 | 2265 - 2233
+|  6 |   10994802 | https://lichess.org/eC5Op9VW |    59 | 2608 - 2550
+|  7 |   12740455 | https://lichess.org/UQ2P7YM0 |    50 | 2433 - 2170
+|  8 |   14592239 | https://lichess.org/nhHVljCF |    29 | 2146 - 2103
+|  9 |   15712281 | https://lichess.org/sqPhMPIn |    30 | 2302 - 2290
+| 10 |   16129303 | https://lichess.org/VklatGF8 |    25 | 2496 - 2153
+| 11 |   16724208 | https://lichess.org/6hKVPXSV |    14 | 2147 - 2122
+| 12 |   18937425 | https://lichess.org/0XHWOr2E |    31 | 2233 - 2185
+| 13 |   20677456 | https://lichess.org/TapnI25Y |    20 | 2248 - 2229
+| 14 |   22483921 | https://lichess.org/kA1uzdFq |    42 | 2401 - 2280
+| 15 |   26030304 | https://lichess.org/qvPjvLEc |    31 | 2208 - 2128
+| 16 |   27343407 | https://lichess.org/V7Cdy1sR |    52 | 2455 - 2296
+| 17 |   28691611 | https://lichess.org/CFMo8slj |    29 | 2384 - 2367
+| 18 |   30980368 | https://lichess.org/COvoJlr5 |    40 | 2223 - 2143
+| 19 |   32177946 | https://lichess.org/qEPJoPrn |    36 | 2556 - 2408
+| 20 |   32484576 | https://lichess.org/g7T4pLig |    33 | 2313 - 2207
+| 21 |   37237402 | https://lichess.org/iklLTzNh |    37 | 2156 - 2151
+| 22 |   39173919 | https://lichess.org/aNnS5PGK |    38 | 2413 - 2337
+| 23 |   40156655 | https://lichess.org/12rGOybD |    19 | 2546 - 2313
+| 24 |   43697395 | https://lichess.org/0Balr23Q |    36 | 2422 - 2287
+| 25 |   44532610 | https://lichess.org/mAyUtiJV |    28 | 2165 - 2163
+| 26 |   44997954 | https://lichess.org/90YpaZV9 |    34 | 2462 - 2376
+| 27 |   45146708 | https://lichess.org/UJrDXStj |    16 | 2360 - 2297
+| 28 |   45654797 | https://lichess.org/HjCMGxqI |    29 | 2421 - 2401
+| 29 |   46403029 | https://lichess.org/lywg5E2R |    18 | 2191 - 2161
+| 30 |   46417707 | https://lichess.org/cT2yHYSH |    31 | 2450 - 2152
+| 31 |   46718749 | https://lichess.org/OeetmeH6 |    36 | 2154 - 2147
+| 32 |   47198656 | https://lichess.org/EmIOpKFM |    42 | 2409 - 2258
+| 33 |   48467870 | https://lichess.org/qcADoRJy |    66 | 2378 - 2300
+| 34 |   48724884 | https://lichess.org/KRhlNCfp |    33 | 2164 - 2119
+| 35 |   50207692 | https://lichess.org/njHBDQDX |    17 | 2346 - 2207
+| 36 |   53905990 | https://lichess.org/mzrkVKw5 |    39 | 2447 - 2343
+| 37 |   57704061 | https://lichess.org/WBbmqEYv |    32 | 2252 - 2108
+| 38 |   59612351 | https://lichess.org/3p1vlY5C |    29 | 2519 - 2504
+| 39 |   61125856 | https://lichess.org/q9ISZ6V5 |    39 | 2279 - 2263
+| 40 |   66545892 | https://lichess.org/7b9ftSbM |    41 | 2422 - 2316
+| 41 |   68160033 | https://lichess.org/sVJlyDdL |    36 | 2137 - 2129
+| 42 |   68826475 | https://lichess.org/w1Gxu53S |    28 | 2266 - 2234
+| 43 |   69272941 | https://lichess.org/kU6kje4Z |    37 | 2310 - 2238
+| 44 |   71608867 | https://lichess.org/zuDptOjc |    31 | 2106 - 2105
+| 45 |   72604752 | https://lichess.org/BSmpgPyn |    27 | 2480 - 2422
+| 46 |   80464586 | https://lichess.org/HPthXP7w |    23 | 2377 - 2269
+| 47 |   81976881 | https://lichess.org/kcJedWY9 |    20 | 2357 - 2321
+| 48 |   85181931 | https://lichess.org/UFXukOm8 |    42 | 2405 - 2268
+| 49 |   85261902 | https://lichess.org/bEhXnq88 |    62 | 2196 - 2102
+| 50 |   86411165 | https://lichess.org/5BXvwm5Z |    45 | 2376 - 2178
+| 51 |   87085692 | https://lichess.org/FYpkkbUX |    38 | 2357 - 2248
+| 52 |   88107012 | https://lichess.org/hi1lJA5k |    25 | 2145 - 2125
+| 53 |   90215397 | https://lichess.org/TmMeZC8h |    35 | 2523 - 2471
+| 54 |   90916114 | https://lichess.org/Tuyy8zZX |    36 | 2320 - 2277
+|=======
