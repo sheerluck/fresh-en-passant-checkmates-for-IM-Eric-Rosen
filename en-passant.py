@@ -60,7 +60,8 @@ def grammar() -> p.parsers.RepeatedParser:
 
     # Build up the game
     movenumber  = (p.reg(r'[0-9]+') << '.' << whitespace) > int
-    turn        = movenumber & (move << whitespace) & (p.opt(move << whitespace) > handleoptional)
+    turn        = movenumber & (move << whitespace)  \
+        & (p.opt(move << whitespace) > handleoptional)
 
     draw        = p.lit('1/2-1/2')
     white       = p.lit('1-0')
@@ -70,7 +71,8 @@ def grammar() -> p.parsers.RepeatedParser:
     game        = (p.rep(turn) & outcome) > formatgame
 
     # A PGN entry is annotations and the game
-    entry       = ((annotations << p.rep(whitespace)) & (game << p.rep(whitespace))) > formatentry
+    entry       = ((annotations << p.rep(whitespace))
+                   & (game << p.rep(whitespace))) > formatentry
 
     # A file is repeated entries
     return p.rep(entry)
@@ -104,12 +106,12 @@ def withx(s: str) -> bool:
     return "x" in s
 
 
-def try_elo(d: dict, line: str) -> dict:
+def try_elo(d: dict[str, int], line: str) -> dict:
     for elem in ["WhiteElo", "BlackElo"]:
         if elem in line:
             try:
                 d[elem] = int(line.split('"')[1])
-            except Exception as e:
+            except Exception:
                 pass
     return d
 
@@ -130,12 +132,12 @@ def cleanup(game: str) -> str:
 def process(gr: p.parsers.RepeatedParser,
             counter: int,
             num: int,
-            elo: dict, 
+            elo: dict[str, int],
             lines: list[str]) -> tuple[bool, int]:
     try:
         parsed = gr.parse("".join(lines)).or_die()
-    except Exception as e:
-        raise ValueError(f"{counter=}") from e
+    except Exception as err:
+        raise ValueError(f"{counter=}") from err
     for game in parsed:
         moves = game["game"]["moves"]
         if len(moves) >= 2:
@@ -143,12 +145,9 @@ def process(gr: p.parsers.RepeatedParser,
             (n, a, b), (m, c, d) = moves[-2:]
             moves = [x for x in [a, b, c, d] if x]
             a, b  = moves[-2:]
-            if all([pawn(a),
-                    pawn(b),
-                    withoutx(a),
-                    withx(b),
-                    checkmate(b),
-                   ]):
+            if all([pawn(a), pawn(b),
+                    withoutx(a), withx(b),
+                    checkmate(b)]):
                 a, b = nox(a), nox(b)
                 c1, n1 = a
                 c2, n2 = b
@@ -170,7 +169,7 @@ def main() -> int:
     step = "annotations"
     counter = 1
     num = 1
-    elo = {}
+    elo: dict[str, int] = {}
     print(f"{counter:>10}, {now()}", flush=True)
     for line in fileinput.input():
         if len(line) > 1 and step == "annotations":
