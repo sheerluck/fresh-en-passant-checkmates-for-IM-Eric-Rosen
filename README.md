@@ -16,3 +16,5 @@ Here are the results of running that script:
 [May 2021](May-2021.adoc)
 
 [June 2021](June-2021.adoc)
+
+[July 2021](July-2021.adoc)
