@@ -4,6 +4,7 @@ $ bzcat lichess_db_standard_rated_2021-04.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2021-05.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2021-06.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2021-07.pgn.bz2 | python en-passant.py
+$ bzcat lichess_db_standard_rated_2021-08.pgn.bz2 | python en-passant.py
 """
 
 import fileinput
