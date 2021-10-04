@@ -1,0 +1,62 @@
+Mate by en passant (September 2021) from lichess_db_standard_rated_2021-09.pgn.bz2
+
+[cols="^,>,^,>,^", options="header"]
+|=======
+|  # | # in file  |            URL               | moves |     Elo    
+|  1 |    1355235 | https://lichess.org/pwBU6lDK |    34 | 2411 - 2350
+|  2 |    2759024 | https://lichess.org/eGpnSaFo |    28 | 2835 - 2727
+|  3 |    5015912 | https://lichess.org/pfS3sOQ1 |    49 | 2102 - 2101
+|  4 |    5684579 | https://lichess.org/JxmNnsMx |    29 | 2158 - 2146
+|  5 |   12533350 | https://lichess.org/UxEqKfCX |    35 | 2107 - 2103
+|  6 |   15033218 | https://lichess.org/nWOC5yp5 |    51 | 2230 - 2229
+|  7 |   16140534 | https://lichess.org/G0SwcfSy |    69 | 2247 - 2240
+|  8 |   17264267 | https://lichess.org/cPzAaN4R |    37 | 2230 - 2222
+|  9 |   18511001 | https://lichess.org/ltQWwS1Y |    36 | 2332 - 2269
+| 10 |   19116147 | https://lichess.org/C9aIlWot |    20 | 2343 - 2331
+| 11 |   19710900 | https://lichess.org/t67BNE9G |    18 | 2220 - 2211
+| 12 |   19765593 | https://lichess.org/ftCEAzaN |    30 | 2303 - 2302
+| 13 |   20505677 | https://lichess.org/Uh3WPGZP |    50 | 2352 - 2297
+| 14 |   21443100 | https://lichess.org/rhb9IVPg |    65 | 2205 - 2125
+| 15 |   22277374 | https://lichess.org/m1UBNRsl |    35 | 2333 - 2226
+| 16 |   22552187 | https://lichess.org/dX5JMidc |    16 | 2423 - 2341
+| 17 |   24104220 | https://lichess.org/bMZK1eCj |    41 | 2126 - 2102
+| 18 |   25223434 | https://lichess.org/Un6MydPa |    29 | 2199 - 2187
+| 19 |   25343753 | https://lichess.org/YibKXSOP |    41 | 2531 - 2483
+| 20 |   26365380 | https://lichess.org/dtCLIgWV |    51 | 2221 - 2159
+| 21 |   28679130 | https://lichess.org/j7ZH3pD7 |    32 | 2262 - 2219
+| 22 |   29238180 | https://lichess.org/2nxao8sA |    30 | 2489 - 2310
+| 23 |   32575223 | https://lichess.org/5Xgft3en |    34 | 2296 - 2157
+| 24 |   34132877 | https://lichess.org/tgcyCMNv |    50 | 2311 - 2284
+| 25 |   34250782 | https://lichess.org/zwGQ9gFd |    29 | 2159 - 2148
+| 26 |   34710069 | https://lichess.org/2jnZoocD |    31 | 2226 - 2195
+| 27 |   36779472 | https://lichess.org/MiIjJ24T |    36 | 2128 - 2109
+| 28 |   36964206 | https://lichess.org/ZPl2ZGd4 |    23 | 2459 - 2321
+| 29 |   37059853 | https://lichess.org/VI1sDufh |    29 | 2183 - 2157
+| 30 |   38326385 | https://lichess.org/hFWdJLP4 |    43 | 2335 - 2306
+| 31 |   38999348 | https://lichess.org/wcvwFwgE |    31 | 2402 - 2335
+| 32 |   39173290 | https://lichess.org/5kSvuBDi |    42 | 2384 - 2378
+| 33 |   39389724 | https://lichess.org/PBq8leVV |    37 | 2129 - 2116
+| 34 |   39399591 | https://lichess.org/dP3VZ3uU |    32 | 2316 - 2138
+| 35 |   40481165 | https://lichess.org/TKhR4G0r |    36 | 2623 - 2608
+| 36 |   43232864 | https://lichess.org/rlTpyRdd |    40 | 2302 - 2140
+| 37 |   44303169 | https://lichess.org/axXwohyP |    18 | 2536 - 2422
+| 38 |   46124199 | https://lichess.org/OYL7dAV7 |    33 | 2244 - 2236
+| 39 |   48738506 | https://lichess.org/1lrlB9Um |    27 | 2332 - 2257
+| 40 |   49108478 | https://lichess.org/2eMiTmIT |    33 | 2399 - 2240
+| 41 |   51476077 | https://lichess.org/ZeOmbEVQ |    37 | 2173 - 2145
+| 42 |   53399282 | https://lichess.org/RmEgP4jF |    19 | 2281 - 2194
+| 43 |   53913765 | https://lichess.org/uaACXudn |    32 | 2157 - 2151
+| 44 |   54064116 | https://lichess.org/soSh0eJe |    49 | 2350 - 2267
+| 45 |   68373741 | https://lichess.org/hofsVP7Q |    40 | 2345 - 2240
+| 46 |   68571210 | https://lichess.org/0sCWhfGh |    45 | 2360 - 2323
+| 47 |   71477113 | https://lichess.org/WNqITiUk |    59 | 2162 - 2152
+| 48 |   76898316 | https://lichess.org/SEEYfLwg |    30 | 2136 - 2111
+| 49 |   78071877 | https://lichess.org/zYhUGmbN |    42 | 2950 - 2751
+| 50 |   78328384 | https://lichess.org/afxWiW52 |    48 | 2211 - 2112
+| 51 |   79126066 | https://lichess.org/AvTHpZhj |    63 | 2128 - 2105
+| 52 |   79478538 | https://lichess.org/p5n7jd3L |    29 | 2403 - 2348
+| 53 |   79785392 | https://lichess.org/PfcdjLiI |    29 | 2135 - 2104
+| 54 |   83716255 | https://lichess.org/GZYP0ESA |    51 | 2328 - 2308
+| 55 |   85107295 | https://lichess.org/4mYINd2g |    32 | 2290 - 2219
+| 56 |   85493404 | https://lichess.org/2zk2EcqF |    38 | 2183 - 2150
+|=======
