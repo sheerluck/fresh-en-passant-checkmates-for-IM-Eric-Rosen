@@ -24,3 +24,5 @@ Here are the results of running that script:
 [September 2021](September-2021.adoc)
 
 [October 2021](October-2021.adoc)
+
+[November 2021](November-2021.adoc)
