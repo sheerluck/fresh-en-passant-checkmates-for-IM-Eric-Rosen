@@ -1,10 +1,10 @@
 """
-$ bzcat lichess_db_standard_rated_2021-07.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2021-08.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2021-09.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2021-10.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2021-11.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2021-12.pgn.bz2 | python en-passant.py
+$ bzcat lichess_db_standard_rated_2022-01.pgn.bz2 | python en-passant.py
 """
 
 import fileinput
@@ -185,11 +185,11 @@ def main() -> int:
             step = "game"
             continue
         if len(line) > 1 and step == "game":
-            if min(elo.values()) > 2100:
+            if min(elo.values()) > 2200:
                 lines.append(cleanup(line))
             continue
         if len(line) == 1 and step == "game":
-            if min(elo.values()) > 2100:
+            if min(elo.values()) > 2200:
                 lines.append(line)
                 is_ok, n = process(gr, counter, num, elo, lines)
                 if is_ok:
