@@ -1,0 +1,27 @@
+Mate by en passant (April 2022) from lichess_db_standard_rated_2022-04.pgn.bz2
+
+[cols="^,>,^,>,^", options="header"]
+|=======
+|  # | # in file  |            URL               | moves |     Elo    
+|  1 |    1342491 | https://lichess.org/mXcLX2R0 |    37 | 2435 - 2279
+|  2 |    4655746 | https://lichess.org/R30kMlpK |    29 | 2316 - 2311
+|  3 |   11591909 | https://lichess.org/M1GPEhn3 |    31 | 2379 - 2361
+|  4 |   12487238 | https://lichess.org/0b0sLxsk |    74 | 2366 - 2255
+|  5 |   13306274 | https://lichess.org/UPs3SzYM |    45 | 2238 - 2222
+|  6 |   14682079 | https://lichess.org/7TESLqDN |    33 | 2517 - 2442
+|  7 |   18985556 | https://lichess.org/NcOtF2gT |    77 | 2351 - 2256
+|  8 |   21233905 | https://lichess.org/uZgMCajZ |    36 | 2341 - 2265
+|  9 |   23083927 | https://lichess.org/hDQvfbIw |    29 | 2431 - 2337
+| 10 |   28746752 | https://lichess.org/sz1Y073Z |    57 | 2444 - 2306
+| 11 |   29363211 | https://lichess.org/iZIGUDVk |    53 | 2743 - 2551
+| 12 |   31681574 | https://lichess.org/HoPzfvHP |    46 | 2436 - 2435
+| 13 |   32296333 | https://lichess.org/9BeygbIg |    18 | 2225 - 2214
+| 14 |   33539464 | https://lichess.org/TDqZxbBT |    23 | 2223 - 2220
+| 15 |   60354619 | https://lichess.org/dvMk6igM |    50 | 2482 - 2444
+| 16 |   67799711 | https://lichess.org/PtmUO7cz |    25 | 2353 - 2257
+| 17 |   68728680 | https://lichess.org/LzLUI5sg |    45 | 2246 - 2242
+| 18 |   77782974 | https://lichess.org/4MykjKDC |    25 | 2391 - 2380
+| 19 |   81094914 | https://lichess.org/51d7dbnj |    16 | 2237 - 2219
+| 20 |   85133608 | https://lichess.org/l1TlWwUC |    42 | 3096 - 2979
+| 21 |   85198134 | https://lichess.org/0kCWsaMg |    28 | 2213 - 2205
+|=======
