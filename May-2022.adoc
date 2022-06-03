@@ -1,0 +1,23 @@
+Mate by en passant (May 2022) from lichess_db_standard_rated_2022-05.pgn.bz2
+
+[cols="^,>,^,>,^", options="header"]
+|=======
+|  # | # in file  |            URL               | moves |     Elo    
+|  1 |    8249768 | https://lichess.org/jPfn3L40 |    43 | 2280 - 2257
+|  2 |   16280887 | https://lichess.org/mGOhSJ3y |    37 | 2295 - 2270
+|  3 |   19479821 | https://lichess.org/u7bSNYRs |    43 | 2490 - 2277
+|  4 |   21385151 | https://lichess.org/gHo4FIMz |    27 | 2365 - 2362
+|  5 |   26849345 | https://lichess.org/1HoVJUYm |    33 | 2259 - 2236
+|  6 |   30088269 | https://lichess.org/Mx5SNHMt |    29 | 2342 - 2267
+|  7 |   38910169 | https://lichess.org/5kdQcZIc |    63 | 2253 - 2212
+|  8 |   42943533 | https://lichess.org/LmRuZ9Qw |    65 | 2581 - 2521
+|  9 |   54240098 | https://lichess.org/cvHUnbk5 |    57 | 2590 - 2440
+| 10 |   56484605 | https://lichess.org/SUlFVjQD |    22 | 2328 - 2309
+| 11 |   58087031 | https://lichess.org/fTEMtDBl |    39 | 2563 - 2298
+| 12 |   59493873 | https://lichess.org/CPVf0RQz |    35 | 2370 - 2320
+| 13 |   62115981 | https://lichess.org/iocC1SCv |    34 | 2677 - 2611
+| 14 |   64346221 | https://lichess.org/HPeJ97oW |    26 | 2378 - 2295
+| 15 |   69749688 | https://lichess.org/WRjXj4xd |    39 | 2250 - 2206
+| 16 |   71174644 | https://lichess.org/DM3YA2Jr |    34 | 2410 - 2391
+| 17 |   73214163 | https://lichess.org/FMj6lt5W |    37 | 2618 - 2502
+|=======
