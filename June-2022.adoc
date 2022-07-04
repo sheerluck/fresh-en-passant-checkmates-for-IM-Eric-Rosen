@@ -1,0 +1,38 @@
+Mate by en passant (June 2022) from lichess_db_standard_rated_2022-06.pgn.bz2
+
+[cols="^,>,^,>,^", options="header"]
+|=======
+|  # | # in file  |            URL               | moves |     Elo    
+|  1 |    3178957 | https://lichess.org/5Wy0B9Ig |    30 | 2238 - 2207
+|  2 |   10635061 | https://lichess.org/IvI4oDts |    24 | 2246 - 2231
+|  3 |   13128282 | https://lichess.org/JwTf83K6 |    20 | 2454 - 2315
+|  4 |   16042726 | https://lichess.org/48ciDkNM |    24 | 2236 - 2216
+|  5 |   20345760 | https://lichess.org/nV9nPXYP |    60 | 2364 - 2263
+|  6 |   21536349 | https://lichess.org/FvWSnmsI |    30 | 2217 - 2210
+|  7 |   23306251 | https://lichess.org/sSuq29Nd |    23 | 2486 - 2355
+|  8 |   23417820 | https://lichess.org/9M0exb2F |    23 | 2469 - 2296
+|  9 |   23638101 | https://lichess.org/rus47NIE |    39 | 2300 - 2291
+| 10 |   25508810 | https://lichess.org/8E6iJBdW |    34 | 2424 - 2305
+| 11 |   37075896 | https://lichess.org/QU62oMnR |    27 | 2246 - 2230
+| 12 |   38460403 | https://lichess.org/H2Z6hjTu |    14 | 2333 - 2294
+| 13 |   41294143 | https://lichess.org/yaMZOoz5 |    70 | 2554 - 2444
+| 14 |   41868035 | https://lichess.org/LN1jOe9U |    36 | 2373 - 2369
+| 15 |   44849975 | https://lichess.org/OAIn8BGX |    57 | 2244 - 2207
+| 16 |   47819884 | https://lichess.org/kHAXSzbt |    15 | 2235 - 2210
+| 17 |   49904038 | https://lichess.org/D4rqwL9Z |    39 | 2352 - 2291
+| 18 |   54144586 | https://lichess.org/5ITE3IvQ |    29 | 2445 - 2358
+| 19 |   55480525 | https://lichess.org/KN9RDdxi |    25 | 2248 - 2246
+| 20 |   56221565 | https://lichess.org/zgLb9CH0 |    68 | 2289 - 2205
+| 21 |   57426129 | https://lichess.org/4tuRZ8L6 |    41 | 2302 - 2293
+| 22 |   57716325 | https://lichess.org/U5SQVsfb |    60 | 2417 - 2351
+| 23 |   59123406 | https://lichess.org/VmtkrvUp |    46 | 2462 - 2298
+| 24 |   64335868 | https://lichess.org/9pmGPVgE |    41 | 2344 - 2278
+| 25 |   72586530 | https://lichess.org/AQzQn2e9 |    62 | 2307 - 2293
+| 26 |   74890091 | https://lichess.org/pgxVaonv |    17 | 2308 - 2307
+| 27 |   76252790 | https://lichess.org/urOZJo9y |    46 | 2300 - 2293
+| 28 |   76891004 | https://lichess.org/ubogeGEx |    29 | 2463 - 2322
+| 29 |   78902728 | https://lichess.org/8jM8xlwQ |    24 | 2277 - 2254
+| 30 |   79248796 | https://lichess.org/gU5zN0Lb |    40 | 2253 - 2214
+| 31 |   79587296 | https://lichess.org/mvKEPudx |    28 | 2286 - 2281
+| 32 |   80713413 | https://lichess.org/SKRYZBjo |    35 | 2262 - 2258
+|=======
