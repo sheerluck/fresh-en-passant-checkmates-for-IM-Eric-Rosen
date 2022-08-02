@@ -1,0 +1,32 @@
+Mate by en passant (July 2022) from lichess_db_standard_rated_2022-07.pgn.bz2
+
+[cols="^,>,^,>,^", options="header"]
+|=======
+|  # | # in file  |            URL               | moves |     Elo    
+|  1 |    4967254 | https://lichess.org/876oAveM |    38 | 2708 - 2686
+|  2 |    7381004 | https://lichess.org/2fby9tCU |    55 | 2299 - 2239
+|  3 |    9442794 | https://lichess.org/cZ9qBedJ |    67 | 2332 - 2307
+|  4 |   10333662 | https://lichess.org/6w2jlNvB |    25 | 2342 - 2315
+|  5 |   11793862 | https://lichess.org/n6KGlrB8 |    30 | 2439 - 2359
+|  6 |   16549451 | https://lichess.org/NWS7mWRM |    35 | 2369 - 2222
+|  7 |   19716812 | https://lichess.org/v84v0UM9 |    42 | 2265 - 2252
+|  8 |   24142163 | https://lichess.org/Foy0eF0c |    16 | 2226 - 2211
+|  9 |   24253358 | https://lichess.org/S8q3D7wg |    15 | 2494 - 2478
+| 10 |   24865774 | https://lichess.org/yeGq4l0h |    32 | 2734 - 2710
+| 11 |   25587098 | https://lichess.org/C7ky7Lh6 |    33 | 2658 - 2601
+| 12 |   26431527 | https://lichess.org/ZyaotzmP |    34 | 2369 - 2342
+| 13 |   34144191 | https://lichess.org/7ORGGlVZ |    16 | 2316 - 2221
+| 14 |   41667141 | https://lichess.org/3gmo1R2A |    40 | 2277 - 2213
+| 15 |   46640487 | https://lichess.org/w6ov9gor |    56 | 2298 - 2243
+| 16 |   53679190 | https://lichess.org/0PavTEKG |    35 | 2223 - 2213
+| 17 |   59870972 | https://lichess.org/0BqRyJOl |    26 | 2269 - 2261
+| 18 |   61487487 | https://lichess.org/0bJrbWEZ |    35 | 2408 - 2335
+| 19 |   62498506 | https://lichess.org/DNw8YORs |    37 | 2589 - 2501
+| 20 |   67301505 | https://lichess.org/0Gi27Ogj |    32 | 2341 - 2212
+| 21 |   70193420 | https://lichess.org/GiJBzMge |    26 | 2638 - 2613
+| 22 |   72453297 | https://lichess.org/4IUa3WMa |    31 | 2261 - 2247
+| 23 |   81886425 | https://lichess.org/wicyTZ2V |    30 | 2237 - 2224
+| 24 |   82496891 | https://lichess.org/Azc4CKN3 |    36 | 2320 - 2281
+| 25 |   83814460 | https://lichess.org/Y6zpm5mx |    16 | 2565 - 2536
+| 26 |   87504662 | https://lichess.org/S2g53jl3 |    32 | 2344 - 2342
+|=======
