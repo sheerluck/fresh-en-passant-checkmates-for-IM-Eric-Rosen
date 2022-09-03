@@ -1,0 +1,32 @@
+Mate by en passant (August 2022) from lichess_db_standard_rated_2022-08.pgn.bz2
+
+[cols="^,>,^,>,^", options="header"]
+|=======
+|  # | # in file  |            URL               | moves |     Elo    
+|  1 |     363077 | https://lichess.org/HlnjzVpr |    40 | 2713 - 2590
+|  2 |    3197145 | https://lichess.org/QhvjgysC |    32 | 2363 - 2310
+|  3 |    3313815 | https://lichess.org/Qou2Z4OG |    41 | 2228 - 2213
+|  4 |    7093672 | https://lichess.org/ojfCbzlg |    35 | 2226 - 2205
+|  5 |   11832914 | https://lichess.org/8NySJOCc |    64 | 2410 - 2287
+|  6 |   15345677 | https://lichess.org/V1Z181PD |    30 | 2360 - 2218
+|  7 |   21914301 | https://lichess.org/yENAX46z |    59 | 2607 - 2600
+|  8 |   22146394 | https://lichess.org/Na2dkTUw |    40 | 2472 - 2419
+|  9 |   26225625 | https://lichess.org/VRx97chQ |    49 | 2323 - 2218
+| 10 |   28652173 | https://lichess.org/TzOPCU5G |    28 | 2450 - 2340
+| 11 |   34338762 | https://lichess.org/qlPF0D4L |    18 | 2409 - 2374
+| 12 |   35887220 | https://lichess.org/iAnmG61c |    46 | 2414 - 2376
+| 13 |   58184981 | https://lichess.org/AnZ7wysa |    24 | 2224 - 2217
+| 14 |   60010346 | https://lichess.org/WNa8lZ4I |    21 | 2266 - 2251
+| 15 |   61139665 | https://lichess.org/l6XArGBZ |    44 | 2621 - 2562
+| 16 |   61897920 | https://lichess.org/AuZY8Njc |    34 | 2360 - 2341
+| 17 |   65293033 | https://lichess.org/VSufQl1I |    53 | 2318 - 2208
+| 18 |   69064953 | https://lichess.org/n77dvDdq |    33 | 2341 - 2257
+| 19 |   69255241 | https://lichess.org/sw5NXsWJ |    21 | 2375 - 2345
+| 20 |   70590205 | https://lichess.org/G2vg9LLs |    49 | 2384 - 2280
+| 21 |   75796855 | https://lichess.org/NArFuaOp |    38 | 2469 - 2332
+| 22 |   80345251 | https://lichess.org/eBLDaCsW |    16 | 2291 - 2207
+| 23 |   81213762 | https://lichess.org/i1qnYn1K |    38 | 2396 - 2336
+| 24 |   90077455 | https://lichess.org/V9WWaftX |    32 | 2296 - 2220
+| 25 |   90226623 | https://lichess.org/ozulug0F |    22 | 2310 - 2285
+| 26 |   92039419 | https://lichess.org/acGs9ABr |    35 | 2275 - 2205
+|=======
