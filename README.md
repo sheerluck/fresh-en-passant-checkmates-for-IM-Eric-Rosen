@@ -44,3 +44,5 @@ Here are the results of running that script:
 [July 2022](July-2022.adoc)
 
 [August 2022](August-2022.adoc)
+
+[September 2022](September-2022.adoc)
