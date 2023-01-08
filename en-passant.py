@@ -1,10 +1,10 @@
 """
-$ bzcat lichess_db_standard_rated_2022-06.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2022-07.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2022-08.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2022-09.pgn.bz2 | python en-passant.py
 $ bzcat lichess_db_standard_rated_2022-10.pgn.bz2 | python en-passant.py
 $ zstdcat lichess_db_standard_rated_2022-11.pgn.zst | python en-passant.py
+$ zstdcat lichess_db_standard_rated_2022-12.pgn.zst | python en-passant.py
 """
 
 import fileinput
