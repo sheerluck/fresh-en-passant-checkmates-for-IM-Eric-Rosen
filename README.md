@@ -52,3 +52,5 @@ Here are the results of running that script:
 [November 2022](2022/November-2022.adoc)
 
 [December 2022](2022/December-2022.adoc)
+
+[January 2023](2023/January-2023.adoc)
