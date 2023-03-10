@@ -1,0 +1,31 @@
+Mate by en passant (February 2023) from lichess_db_standard_rated_2023-02.pgn.zst
+
+[cols="^,>,^,>,^", options="header"]
+|=======
+|  # | # in file  |            URL               | moves |     Elo    
+|  1 |    8420787 | https://lichess.org/HfjpALWE |    57 | 2512 - 2490
+|  2 |    9826310 | https://lichess.org/FeQxhJeV |    53 | 2504 - 2474
+|  3 |   21499749 | https://lichess.org/Sh0RpMIU |    38 | 2436 - 2332
+|  4 |   24342847 | https://lichess.org/9hg6CSuB |    39 | 2300 - 2298
+|  5 |   27965231 | https://lichess.org/pKC8CIEu |    58 | 2362 - 2222
+|  6 |   34449484 | https://lichess.org/ewkMv7PV |    34 | 2251 - 2242
+|  7 |   35098615 | https://lichess.org/KpgPWMiF |    48 | 2456 - 2409
+|  8 |   37427020 | https://lichess.org/7Vz21AmO |    18 | 2377 - 2315
+|  9 |   40690756 | https://lichess.org/QxADF8ZZ |    17 | 2399 - 2338
+| 10 |   51227628 | https://lichess.org/qAr2bTvJ |    50 | 2343 - 2292
+| 11 |   51468877 | https://lichess.org/shlLkRvr |    36 | 2315 - 2291
+| 12 |   63529756 | https://lichess.org/GliGoD96 |    25 | 2543 - 2379
+| 13 |   70179734 | https://lichess.org/IwtpOBWX |    22 | 2209 - 2202
+| 14 |   72815106 | https://lichess.org/ruN5JVNL |    51 | 2265 - 2233
+| 15 |   78450877 | https://lichess.org/gM7kGOge |    30 | 2359 - 2303
+| 16 |   79127379 | https://lichess.org/UrmXC6Lw |    32 | 2684 - 2540
+| 17 |   79207224 | https://lichess.org/DF0UlRA1 |    22 | 2298 - 2268
+| 18 |   87496101 | https://lichess.org/UmfHkB7V |    30 | 2516 - 2354
+| 19 |   87716919 | https://lichess.org/NLxJujh4 |    33 | 2469 - 2404
+| 20 |   92077264 | https://lichess.org/SLfpZXXT |    35 | 2312 - 2249
+| 21 |   92089582 | https://lichess.org/srtIyfno |    55 | 2676 - 2421
+| 22 |   92487489 | https://lichess.org/A3JBVd0n |    29 | 2219 - 2209
+| 23 |   92683817 | https://lichess.org/1s7QSCW8 |    30 | 2294 - 2251
+| 24 |   93309766 | https://lichess.org/4oOZyulu |    63 | 2922 - 2553
+| 25 |   93343240 | https://lichess.org/BJG1fU8p |    40 | 2291 - 2229
+|=======
