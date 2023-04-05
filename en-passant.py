@@ -7,6 +7,7 @@ $ zstdcat lichess_db_standard_rated_2022-11.pgn.zst | python en-passant.py
 $ zstdcat lichess_db_standard_rated_2022-12.pgn.zst | python en-passant.py
 $ zstdcat lichess_db_standard_rated_2023-01.pgn.zst | python en-passant.py
 $ zstdcat lichess_db_standard_rated_2023-02.pgn.zst | python en-passant.py
+$ zstdcat lichess_db_standard_rated_2023-03.pgn.zst | python en-passant.py
 """
 
 import fileinput
