@@ -11,6 +11,7 @@ $ zstdcat lichess_db_standard_rated_2023-03.pgn.zst | python en-passant.py
 $ zstdcat lichess_db_standard_rated_2023-04.pgn.zst | python en-passant.py
 $ zstdcat lichess_db_standard_rated_2023-05.pgn.zst | python en-passant.py
 $ zstdcat lichess_db_standard_rated_2023-06.pgn.zst | python en-passant.py
+$ zstdcat lichess_db_standard_rated_2023-07.pgn.zst | python en-passant.py
 """
 
 import fileinput

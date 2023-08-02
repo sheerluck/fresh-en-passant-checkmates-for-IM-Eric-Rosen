@@ -64,3 +64,5 @@ Here are the results of running that script:
 [May 2023](2023/May-2023.adoc)
 
 [June 2023](2023/June-2023.adoc)
+
+[July 2023](2023/July-2023.adoc)
